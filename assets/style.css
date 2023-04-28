@@ -13,11 +13,14 @@ footer {
     background-color: rgb(60, 6, 104);
     color: white;
     padding: 15px;
-    position: absolute;
-    bottom: 0;
+    position: fixed;
+    Bottom: 0;
     width: calc(100% - 20px);
 }
 
+img {
+    width: 200px;
+}
 form {
     font-size: 20px;
 }
